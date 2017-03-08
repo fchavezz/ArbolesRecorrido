@@ -1,0 +1,13 @@
+c:\users\u\documents\visual studio 2012\Projects\ArbolesRecorrido\ArbolesRecorrido\bin\Debug\ArbolesRecorrido.exe.config
+c:\users\u\documents\visual studio 2012\Projects\ArbolesRecorrido\ArbolesRecorrido\bin\Debug\ArbolesRecorrido.exe
+c:\users\u\documents\visual studio 2012\Projects\ArbolesRecorrido\ArbolesRecorrido\bin\Debug\ArbolesRecorrido.pdb
+c:\users\u\documents\visual studio 2012\Projects\ArbolesRecorrido\ArbolesRecorrido\obj\Debug\ArbolesRecorrido.csprojResolveAssemblyReference.cache
+c:\users\u\documents\visual studio 2012\Projects\ArbolesRecorrido\ArbolesRecorrido\obj\Debug\ArbolesRecorrido.Form1.resources
+c:\users\u\documents\visual studio 2012\Projects\ArbolesRecorrido\ArbolesRecorrido\obj\Debug\ArbolesRecorrido.Properties.Resources.resources
+c:\users\u\documents\visual studio 2012\Projects\ArbolesRecorrido\ArbolesRecorrido\obj\Debug\ArbolesRecorrido.csproj.GenerateResource.Cache
+c:\users\u\documents\visual studio 2012\Projects\ArbolesRecorrido\ArbolesRecorrido\obj\Debug\ArbolesRecorrido.exe
+c:\users\u\documents\visual studio 2012\Projects\ArbolesRecorrido\ArbolesRecorrido\obj\Debug\ArbolesRecorrido.pdb
+C:\Users\u\documents\visual studio 2012\Projects\ArbolesRecorrido\ArbolesRecorrido\bin\Debug\ArbolesRecorrido.exe.manifest
+C:\Users\u\documents\visual studio 2012\Projects\ArbolesRecorrido\ArbolesRecorrido\bin\Debug\ArbolesRecorrido.application
+C:\Users\u\documents\visual studio 2012\Projects\ArbolesRecorrido\ArbolesRecorrido\obj\Debug\ArbolesRecorrido.exe.manifest
+C:\Users\u\documents\visual studio 2012\Projects\ArbolesRecorrido\ArbolesRecorrido\obj\Debug\ArbolesRecorrido.application
